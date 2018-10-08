@@ -43,6 +43,6 @@ https://github.com/visionmedia/superagent
 https://lukaszadam.com/illustrations
 
 
-# Free Template 
+# Free Startup Template 
 
 https://cruip.com/
